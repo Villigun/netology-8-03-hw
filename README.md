@@ -36,7 +36,9 @@
 ![Название скриншота 1](ссылка на скриншот 1)`
 
 ![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/img/hw-8-03-1-1.png)
+
 ![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/img/hw-8-03-1-2.png)
+
 ![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/img/hw-8-03-1-3.png)
 
 ---
