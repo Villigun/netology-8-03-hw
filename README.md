@@ -30,7 +30,9 @@
 2. `Переходим в директорию ~/Documents/Git/pr1/netology-8-03-hw и выполняем git init.`
     Затем git config --global user.name и git config user.email, указывая свое имя и почту`
 3. `Выполняем git commit -m 'First commit' и git push origin master, где вводим свои учетные данные и токен вместо пароля`
-4. `Ссылка на первый commit: https://github.com/netology-code/sys-pattern-homework/commit/6ea43b0f465d301b6c7bb2bd4de3809c4e5f50c9`
+4. `Ссылка на первый commit:`
+
+(https://github.com/netology-code/sys-pattern-homework/commit/6ea43b0f465d301b6c7bb2bd4de3809c4e5f50c9)
 
 ![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/img/hw-8-03-1-1.png)
 
