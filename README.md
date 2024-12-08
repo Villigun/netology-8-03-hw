@@ -47,7 +47,7 @@
 
 `Приведите ответ в свободной форме........`
 
-![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/.gitignore'
+![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/.gitignore)'
 
 ---
 
