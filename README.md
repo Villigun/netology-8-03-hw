@@ -66,3 +66,5 @@
 ![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/img/hw-8-03-4-1.png)'
 
 Ссылка на граф - (https://github.com/Villigun/netology-8-03-hw/network)'
+
+*Первый раз слияние не произошло по причине зависания терминала, пришлось повторить. Интересно то, что неудача отражается в логах*
