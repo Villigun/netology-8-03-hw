@@ -57,8 +57,10 @@
 2. `Выполняем коммиты в ветке dev, переключаемся на ветку main командой git chekout main, создаем файл main.sh`
 3. `Объединяем ветки командой git merge dev, выполняем push`
 
-Ссылка на результат выполнения команды git log --graph
+Результат выполнения команды git log --graph
 ![alt text](https://github.com/Villigun/netology-8-03-hw/blob/main/img/hw-8-03-3-1.png)'
+
+Ссылка на граф - (https://github.com/Villigun/netology-8-03-hw/network)
 
 ### Задание 4
 
